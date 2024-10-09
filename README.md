@@ -5,5 +5,5 @@ Vuforia SDK was used in the project for image target generation.
 
 
 
-The Assets folder and other files couldn't be uploaded as they exceeded the size.
-Reach out to me in mvamsivp@gmail.com for the project files and the apk file.
+
+You can reach out to me at mvamsivp@gmail.com for the apk and project files.
